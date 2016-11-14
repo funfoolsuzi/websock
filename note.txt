@@ -1,0 +1,3 @@
+what do i need for the map?
+1. socket file descriptor
+2. thread
